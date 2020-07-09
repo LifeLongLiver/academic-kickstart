@@ -26,6 +26,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - icon_pack: fab
+    link: https://www.instagram.com/life_long_liver/
+    icon: instagram
 education:
   courses: []
 email: ""
