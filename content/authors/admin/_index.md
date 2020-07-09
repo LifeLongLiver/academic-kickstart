@@ -8,12 +8,14 @@ authors:
 title: Jack Neilson
 role: Liver Of Life
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My name is Jack Neilson and I am just a man living life as long as it lets
+  me! Take a look around and you'll find all you need to know about me.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Programming
+  - Mandarin
+  - Mixed Martial Arts
+  - Photography
+  - Game Development
 social:
   - icon: envelope
     icon_pack: fas
