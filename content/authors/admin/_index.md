@@ -30,16 +30,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: ""
+  courses: []
 email: ""
 user_groups:
   - Researchers
