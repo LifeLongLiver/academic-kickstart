@@ -36,7 +36,7 @@ font_size = "L"
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+#   E.g. Person, Organization, LocalBusiness, Project, goalsalOrganization
 site_type = "Person"
 
 # Local business type (optional)

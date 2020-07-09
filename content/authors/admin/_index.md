@@ -29,7 +29,7 @@ social:
   - icon_pack: fab
     link: https://www.instagram.com/life_long_liver/
     icon: instagram
-education:
+goals:
   courses:
     - course: aefeafea
       institution: eafaefaef
