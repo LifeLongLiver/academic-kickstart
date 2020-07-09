@@ -29,7 +29,7 @@ social:
   - icon_pack: fab
     link: https://www.instagram.com/life_long_liver/
     icon: instagram
-Goals:
+goals:
   courses: []
 email: ""
 user_groups:
