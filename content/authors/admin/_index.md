@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Just Being Me
+  - name: Just Being Me For As Long As I Can
     url: ""
 superuser: true
 authors:
