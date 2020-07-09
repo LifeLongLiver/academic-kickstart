@@ -2,7 +2,7 @@
 title: My Life
 subtitle: Past, Present & Future
 date: 2020-07-09T11:55:03.504Z
-summary: testingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestin
+summary: testingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtest
 draft: false
 featured: false
 image:
