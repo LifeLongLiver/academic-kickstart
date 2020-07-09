@@ -51,7 +51,7 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
-      - label: "Goals"
+      - label: "Education"
         name: "goals"
         required: false
         widget: object
