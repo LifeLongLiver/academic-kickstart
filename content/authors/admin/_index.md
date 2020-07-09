@@ -30,7 +30,9 @@ social:
     link: https://www.instagram.com/life_long_liver/
     icon: instagram
 education:
-  courses: []
+  courses:
+    - course: fefefefef
+      institution: fefewfwef
 email: ""
 user_groups:
   - Researchers
