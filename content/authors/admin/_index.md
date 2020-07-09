@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Just Being Me
     url: ""
 superuser: true
 authors:
