@@ -52,7 +52,7 @@ collections:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
       - label: "Education"
-        name: "goals"
+        name: "education"
         required: false
         widget: object
         fields:
