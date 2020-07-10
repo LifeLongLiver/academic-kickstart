@@ -31,7 +31,7 @@ social:
     icon: instagram
 education:
   courses:
-    - course: aefeafea
+    - course: aefeafeaggg
       institution: eafaefaef
 email: ""
 user_groups:
