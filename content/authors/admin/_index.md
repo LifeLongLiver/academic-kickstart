@@ -2,6 +2,8 @@
 organizations:
   - name: Just Being Me For As Long As I Exist
     url: ""
+goals:
+  courses: []
 superuser: true
 authors:
   - admin
@@ -29,14 +31,9 @@ social:
   - icon_pack: fab
     link: https://www.instagram.com/life_long_liver/
     icon: instagram
-goals:
-  courses:
-    - course: aefeafeaggg
-      institution: eafaefaef
 email: ""
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
