@@ -73,11 +73,9 @@
     {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
 
     {{ $person_page.Content }}
-
+    div {text-align: center;}
     <div class="row">
-
       {{ with $person.interests }}
-      div {text-align: center;}
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
