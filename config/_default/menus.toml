@@ -14,17 +14,17 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Photography"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Fitness & Health"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "Game Development"
   url = "#contact"
   weight = 60
 
