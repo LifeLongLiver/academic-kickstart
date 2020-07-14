@@ -19,8 +19,8 @@ interests:
   - Photography
   - Game Development
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: patreon
+    icon_pack: fab
     link: "#contact"
   - icon: twitter
     icon_pack: fab
