@@ -27,7 +27,7 @@ social:
     link: https://twitter.com/LifeLongLiver
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LifeLongLiver
   - icon_pack: fab
     link: https://www.instagram.com/life_long_liver/
     icon: instagram
