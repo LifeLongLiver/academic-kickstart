@@ -7,7 +7,7 @@ goals:
 superuser: true
 authors:
   - admin
-title: Jack 
+title: Jack Neilson
 role: Liver Of Life
 avatar_filename: avatar.jpg
 bio: My name is Jack Neilson and I am just a man living life as long as it lets
