@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Photography"
-  url = "content\post\my-article-name\""
+  url = "content\post\my-article-name\"
   weight = 20
 
 [[main]]
