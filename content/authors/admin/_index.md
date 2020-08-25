@@ -13,7 +13,7 @@ avatar_filename: avatar.jpg
 bio: My name is Jack Neilson and I am just a man living life as long as it lets
   me! Take a look around and you'll find all you need to know about me.
 interests:
-  - Computer Programming
+  - C
   - Mandarin
   - Mixed Martial Arts
   - Photography
