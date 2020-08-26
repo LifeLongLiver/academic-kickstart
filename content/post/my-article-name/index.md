@@ -11,7 +11,7 @@ date: 2020-08-25T00:20:33-05:00
 lastmod: 2020-08-25T00:20:33-05:00
 featured: false
 draft: false
-
+title = "Projectss"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
