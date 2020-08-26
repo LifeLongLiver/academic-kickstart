@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Photography"
-  url = "post/my-article-name/"
+  url = "post/photography/"
   weight = 20
 
 [[main]]
