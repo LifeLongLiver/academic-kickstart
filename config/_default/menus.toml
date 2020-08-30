@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Photography"
-  url = "post/photography/"
+  url = "photography/"
   weight = 20
 
 [[main]]
